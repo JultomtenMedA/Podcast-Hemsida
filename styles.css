@@ -1,0 +1,30 @@
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Playfair Display";
+    letter-spacing: 5px;
+  }
+
+
+
+
+.w3-bar{
+    font-family: "Times New Roman", Georgia, Serif;
+    letter-spacing:4px;
+}
+.w3-display-container_w3-content_w3-wide{
+    max-width:1600px;
+    min-width:500px
+}
+.w3-image{
+    min-width:1600px;
+    height:800px;
+}
+.w3-content{
+    max-width:1100px
+}
+.w3-round_w3-image_w3-opacity-min{
+    width:600px;
+    height:750px;
+}
+.w3-round_w3-image_w3-opacity-mi{
+    width:100%;
+}
