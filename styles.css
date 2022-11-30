@@ -1,7 +1,4 @@
-h1, h2, h3, h4, h5, h6 {
-    font-family: "Playfair Display";
-    letter-spacing: 5px;
-  }
+
 
 
 
@@ -16,7 +13,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 .w3-image{
     min-width:1600px;
-    height:800px;
+    height:760px;
+    margin-left: -210px;
 }
 .w3-content{
     max-width:1100px
@@ -27,4 +25,39 @@ h1, h2, h3, h4, h5, h6 {
 }
 .w3-round_w3-image_w3-opacity-mi{
     width:100%;
+}
+
+
+
+.w3-xxlarge{
+    color: #fffafa;
+    font-family: "Playfair Display";
+    letter-spacing: 5px;
+    text-shadow: -10px 10px 5px black;
+}
+
+.oss{
+    width: 100px;
+    display: flex;
+    flex-direction: row;
+}
+
+.oss2{
+    width: 100px;
+    display: flex;
+    flex-direction: row;
+}
+
+.Andreas{
+    width: 100%;
+}
+
+.Eskil{
+    width: 100%;
+}
+.Leo{
+    width: 100%;
+}
+.Lucas{
+    width: 100%;
 }
