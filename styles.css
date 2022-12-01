@@ -1,4 +1,8 @@
-
+.SA{
+    width: 200px;
+    height: 200px;
+    color:#fffafa;
+}
 
 
 
@@ -24,9 +28,22 @@
     height:750px;
 }
 .w3-round_w3-image_w3-opacity-mi{
-    width:100%;
+    width:75%;
+    height:75%;
+    margin-left: 150px;
+    margin-top:130px;
+    border-radius: 5%;
 }
 
+.Play_B{
+    display: flex;
+    position: absolute;
+    width: 50%;
+    height: 100%;
+    color: black;
+    margin-left:575px;
+    flex-direction: column;
+}
 
 
 .w3-xxlarge{
@@ -37,27 +54,42 @@
 }
 
 .oss{
-    width: 100px;
+    width: 200px;
     display: flex;
     flex-direction: row;
 }
 
 .oss2{
-    width: 100px;
+    width: 200px;
     display: flex;
     flex-direction: row;
 }
 
 .Andreas{
     width: 100%;
+    border-style: solid;
+    border-radius: 10%;
+    border-width: 5px;
+    border-color: #C2F70F;
 }
-
 .Eskil{
     width: 100%;
+    border-style: solid;
+    border-radius: 10%;
+    border-width: 5px;
+    border-color: #C6846D;
 }
 .Leo{
     width: 100%;
+    border-style: solid;
+    border-radius: 10%;
+    border-width: 5px;
+    border-color: #b3e5fc;
 }
 .Lucas{
     width: 100%;
+    border-style: solid;
+    border-radius: 10%;
+    border-width: 5px;
+    border-color: #6ecc00;
 }
