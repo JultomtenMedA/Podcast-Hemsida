@@ -31,18 +31,32 @@
     width:75%;
     height:75%;
     margin-left: 150px;
-    margin-top:130px;
+    margin-top:102px;
     border-radius: 5%;
 }
 
-.Play_B{
-    display: flex;
-    position: absolute;
-    width: 50%;
-    height: 100%;
+.avsnittRuta{
+    width: 625px;
+    height: 110px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    margin-bottom: 5px;
+}
+
+.w3-text-grey{
+    margin-left: 10px;
+    max-width: 500px;
+}
+.avsnittText{
+    margin-left:10px;
+}
+
+.play_B{
+    width: 10%;
+    height: 60%;
     color: black;
-    margin-left:575px;
-    flex-direction: column;
+    margin-left:525px;
 }
 
 
@@ -70,26 +84,26 @@
     border-style: solid;
     border-radius: 10%;
     border-width: 5px;
-    border-color: #C2F70F;
+    
 }
 .Eskil{
     width: 100%;
     border-style: solid;
     border-radius: 10%;
     border-width: 5px;
-    border-color: #C6846D;
+    
 }
 .Leo{
     width: 100%;
     border-style: solid;
     border-radius: 10%;
     border-width: 5px;
-    border-color: #b3e5fc;
+    
 }
 .Lucas{
     width: 100%;
     border-style: solid;
     border-radius: 10%;
     border-width: 5px;
-    border-color: #6ecc00;
+    
 }
