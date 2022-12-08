@@ -4,8 +4,18 @@
     color:#fffafa;
 }
 
+.fungera{
+    position: relative;
+}
 
-
+.logga{
+    position: absolute;
+    top: 50px;
+    right: 60px;
+    width: 90%;
+    height: 70%;
+    
+}
 
 .w3-bar{
     font-family: "Times New Roman", Georgia, Serif;
@@ -28,16 +38,16 @@
     height:750px;
 }
 .w3-round_w3-image_w3-opacity-mi{
-    width:75%;
-    height:75%;
-    margin-left: 150px;
+    width:120%;
+    height:120%;
+    margin-left: 120px;
     margin-top:102px;
     border-radius: 5%;
 }
 
 .avsnittRuta{
     width: 625px;
-    height: 110px;
+    height: 180px;
     border-style: solid;
     border-width: 1px;
     border-color: black;
@@ -46,25 +56,19 @@
 
 .w3-text-grey{
     margin-left: 10px;
-    max-width: 500px;
+    width: 500px;
 }
 .avsnittText{
     margin-left:10px;
 }
 
-.play_B{
-    width: 10%;
-    height: 60%;
-    color: black;
-    margin-left:525px;
-}
-
-
 .w3-xxlarge{
+    margin-left: 435px;
     color: #fffafa;
     font-family: "Playfair Display";
     letter-spacing: 5px;
     text-shadow: -10px 10px 5px black;
+    
 }
 
 .oss{
